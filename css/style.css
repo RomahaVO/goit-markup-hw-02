@@ -1,1 +1,16 @@
-:root 
+body {
+    font-family: 'Roboto', Tahoma, sans-serif;}
+
+:root {
+    --primery-text-color: #212121;
+    --second-text-color: #757575; 
+    --title-white-color: #FFFFFF;
+
+}
+
+.logo{
+    font-family: 'Relawey', Tahoma, sans-serif;
+    color: var(--primery-text-color);
+}
+
+
