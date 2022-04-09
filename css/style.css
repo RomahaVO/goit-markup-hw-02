@@ -40,6 +40,7 @@ body {
 
 .header-link:hover,:focus{
     color: var(--akcent-color);
+    cursor: pointer;
 }
 
 .header-link-second{
@@ -56,6 +57,7 @@ body {
 
 .header-link-second:hover,:focus{
     color: var(--akcent-color);
+    cursor: pointer;
 }
     
 /*герой*/
@@ -183,6 +185,52 @@ body {
     text-decoration: none;
 }
 
+/* портфоліо*/
+
+.hero-button-portfolio{
+    background-color: #F5F4FA;
+    color: var(--primery-text-color);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.hero-button-portfolio:hover,:focus{
+    background-color: var(--akcent-color);
+    cursor: pointer;
+}
+
+.hero-button-portfolio-acent{
+    background-color: var(--akcent-color);
+    color:var(--title-white-color);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.hero-button-portfolio-acent:hover,:focus{
+    background-color: var(--title-white-color);
+    color: var(--akcent-color);
+    cursor: pointer;
+}
+
+.portfolio-list{
+    list-style: none;
+}
+
+.portfolio-title{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.portfolio-text{
+    color: var(--second-text-color);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.9;
+
+}
 
 
 
