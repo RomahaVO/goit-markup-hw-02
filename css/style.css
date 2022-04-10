@@ -41,6 +41,7 @@ body {
 .header-link:hover,:focus{
     color: var(--akcent-color);
     cursor: pointer;
+    
 }
 
 .header-link-second{
