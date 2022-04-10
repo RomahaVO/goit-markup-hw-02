@@ -18,6 +18,7 @@ body {
     font-size: 26px;
     line-height: 1.2;
     text-decoration: none;
+    letter-spacing: 0.03em;
 }
 
 .logo-akcent{
@@ -31,6 +32,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     list-style: none;
+    letter-spacing: 0.02em;
 }
 
 .header-link{
@@ -49,6 +51,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     list-style: none;
+    letter-spacing: 0.02em;
 }
 
 .header-link-text, .header-tel{
@@ -74,6 +77,7 @@ body {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.4;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
 
 
@@ -85,6 +89,7 @@ body {
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
+    letter-spacing: 0.06em;
 
 }
 
@@ -111,6 +116,7 @@ body {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
+    letter-spacing: 0.03em;
 }
 
 .benefits-text{
@@ -118,6 +124,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
+    letter-spacing: 0.03em;
 }
 
 /*Чим ми займаємся*/
@@ -131,6 +138,7 @@ body {
     font-size: 36px;
     line-height: 1.2;
     text-align: center;
+    letter-spacing: 0.03em;
 }
 
 /* Наша команда */
@@ -143,6 +151,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.2;
+    letter-spacing: 0.03em;
 }
 
 .team-text{
@@ -150,6 +159,7 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.2;
+    letter-spacing: 0.03em;
 }
 
 /* Підвал */
@@ -162,6 +172,7 @@ body {
     font-size: 26px;
     line-height: 1.2;
     text-decoration: none;
+    letter-spacing: 0.03em;
 }
 
 .footer-list{
@@ -175,6 +186,8 @@ body {
     font-size: 14px;
     line-height: 1.7;
     text-decoration: none;
+    letter-spacing: 0.03em;
+
 }
 
 .footer-link, .footer-tel{
@@ -184,9 +197,14 @@ body {
     font-size: 14px;
     line-height: 1.7;
     text-decoration: none;
+    letter-spacing: 0.03em;
 }
 
 /* портфоліо*/
+
+.button-portfolio-list{
+    list-style: none;
+}
 
 .hero-button-portfolio{
     background-color: #F5F4FA;
@@ -194,6 +212,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    letter-spacing: 0.03em;
 }
 
 .hero-button-portfolio:hover,:focus{
@@ -207,6 +226,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    letter-spacing: 0.03em;
 }
 
 .hero-button-portfolio-acent:hover,:focus{
@@ -223,6 +243,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
+    letter-spacing: 0.06em;
 }
 
 .portfolio-text{
@@ -230,6 +251,7 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
+    letter-spacing: 0.03em;
 
 }
 
