@@ -13,7 +13,7 @@ body {
 /* WebStudio */
 
 .header-logo{
-    font-family: 'Relawey', Tahoma, sans-serif;
+    font-family: 'Raleway', Tahoma, sans-serif;
     color: var(--primery-text-color);
     font-weight: 700;
     font-size: 26px;
@@ -23,7 +23,6 @@ body {
 }
 
 .logo-akcent{
-    font-family: 'Relawey', Tahoma, sans-serif;
     color: var(--akcent-color);
 }
 
@@ -169,7 +168,7 @@ body {
 
 .footer-logo{
     background-color: #2F303A;
-    font-family: 'Relawey', Tahoma, sans-serif;
+    font-family: 'Raleway', Tahoma, sans-serif;
     color: var(--title-white-color);
     font-weight: 700;
     font-size: 26px;
