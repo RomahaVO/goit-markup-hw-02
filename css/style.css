@@ -39,6 +39,7 @@ body {
 .header-link{
     color: var(--primery-text-color);
     text-decoration: none;
+    
 }
 
 .header-link:hover,:focus{
