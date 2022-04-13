@@ -10,6 +10,7 @@ body {
 
 }
 
+
 /* WebStudio */
 
 .header-logo{
@@ -65,11 +66,11 @@ body {
     color: var(--akcent-color);
     cursor: pointer;
 }
-    
+
 /*герой*/
 
 .hero{
-    background-color: #757575;
+    background-color: #2F303A;
     text-align: center;
 
 }
@@ -193,7 +194,6 @@ body {
     text-decoration: none;
     letter-spacing: 0.03em;
     cursor: default;
-
 }
 
 .footer-link, .footer-tel{
@@ -231,7 +231,7 @@ body {
         cursor: default;
 }
 
-.header-link-potfolio:hover,:focus,{
+.header-link-potfolio:hover,:focus {
     color: var(--akcent-color);
     cursor: default;
 }
@@ -261,7 +261,7 @@ body {
     cursor: pointer;
 }
 
-.hero-button-portfolio-acent{
+.hero-button-portfolio-acent{   
     background-color: var(--akcent-color);
     color:var(--title-white-color);
     font-weight: 500;
