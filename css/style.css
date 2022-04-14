@@ -126,6 +126,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .benefits-text{
@@ -216,7 +217,7 @@ body {
 
 /* портфоліо*/
 
-.header-logo-porfolio{
+.header-logo-portfolio{
     font-family: 'Raleway', Tahoma, sans-serif;
     color: var(--primery-text-color);
     font-weight: 700;
@@ -231,7 +232,7 @@ body {
     color: var(--akcent-color);
 }
 
-.header-link-potfolio{
+.header-link-portfolio{
         color: var(--primery-text-color);
         text-decoration: none;
         cursor: default;
@@ -243,7 +244,7 @@ body {
     cursor: default;
 }
 
-.header-link-potfolio.current{
+.header-link-portfolio.current{
     color: var(--akcent-color);
 }
 
